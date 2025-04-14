@@ -1,0 +1,77 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build output
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+## NuGet Packages (optional if restoring via CLI)
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Dotnet Artifacts
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
+*.db
+
+## Publish output
+publish/
+out/
+artifacts/
+
+## Rider / JetBrains IDE
+.idea/
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Rider DotCover
+*.dotCover
+
+## Windows Thumbnail Cache
+Thumbs.db
+
+## User-specific files
+*.vspscc
+*.vssscc
+
+## Local environment settings
+.env
+
+## Logs
+*.log
+
+## Auto-generated Files (WPF Designer)
+*.g.cs
+*.g.i.cs
+
+## Backup files
+*.bak
+*.tmp
+*.temp
+
+## Visual Studio Code Workspace
+.vscode/
+
+## Crash dumps
+*.dmp
+
+## SQLite / Local DB (if using)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
